@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "418D8230-29D8-43CC-9E91-2A6C02F3E98A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78C7C742-F20C-456F-A2D5-96D5684CF535"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoonShot/MissionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "init(mission:astronauts:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78C7C742-F20C-456F-A2D5-96D5684CF535 - cf750366b217243c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoonShot.MissionView.init(mission: MoonShot.Missions, astronauts: Swift.Array&lt;MoonShot.Astraonaut&gt;) -&gt; MoonShot.MissionView"
+                  moduleName = "MoonShot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chhayaahuja/Documents/SwiftDeveloper/MoonShot/MoonShot/MissionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "78C7C742-F20C-456F-A2D5-96D5684CF535 - 773128a76ab6f03d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MoonShot.Astraonaut) -&gt; Swift.Bool in MoonShot.MissionView.init(mission: MoonShot.Missions, astronauts: Swift.Array&lt;MoonShot.Astraonaut&gt;) -&gt; MoonShot.MissionView"
+                  moduleName = "MoonShot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chhayaahuja/Documents/SwiftDeveloper/MoonShot/MoonShot/MissionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
